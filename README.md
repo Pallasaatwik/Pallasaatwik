@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Saatwik.I competitive Programmer and a web developer.Here is my Leetcode profile to view.
+I am Saatwik.I am a competitive Programmer and a web developer.Here is my Leetcode profile to view.
 
 <!--
 **Pallasaatwik/Pallasaatwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
